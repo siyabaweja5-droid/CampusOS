@@ -1,0 +1,110 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "CodeStorm Hackathon",
+      "category": "Technology",
+      "date": "2026-11-06",
+      "location": "Innovation Lab",
+      "description": "A 24-hour student hackathon. Build a prototype with a team.",
+      "registered": false
+    },
+    {
+      "id": "2",
+      "title": "DJ Night & Open Mic",
+      "category": "Cultural",
+      "date": "2026-11-12",
+      "location": "Open Air Theatre",
+      "description": "Music, performances and an open mic for students.",
+      "registered": false
+    },
+    {
+      "id": "3",
+      "title": "Inter-College Sports Meet",
+      "category": "Sports",
+      "date": "2026-11-18",
+      "location": "Sports Ground",
+      "description": "A campus-wide sports meet with multiple events.",
+      "registered": false
+    }
+  ],
+  "lostfound": [
+    {
+      "id": "1",
+      "title": "Blue water bottle",
+      "category": "Found",
+      "location": "Library, 2nd floor",
+      "date": "2026-10-20",
+      "description": "Found near the study tables."
+    },
+    {
+      "id": "2",
+      "title": "Student ID card",
+      "category": "Lost",
+      "location": "Cafeteria",
+      "date": "2026-10-22",
+      "description": "Please contact the owner through the student office."
+    }
+  ],
+  "marketplace": [
+    {
+      "id": "1",
+      "title": "Engineering Mathematics textbook",
+      "category": "Books",
+      "price": 350,
+      "seller": "Aarav",
+      "description": "Good condition, few highlights."
+    },
+    {
+      "id": "2",
+      "title": "Scientific calculator",
+      "category": "Electronics",
+      "price": 500,
+      "seller": "Mehak",
+      "description": "Working well, includes cover."
+    }
+  ],
+  "library": [
+    {
+      "id": "1",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "category": "Programming",
+      "status": "Available",
+      "favorite": false
+    },
+    {
+      "id": "2",
+      "title": "Artificial Intelligence",
+      "author": "Stuart Russell",
+      "category": "AI",
+      "status": "Available",
+      "favorite": false
+    },
+    {
+      "id": "3",
+      "title": "Data Structures & Algorithms",
+      "author": "Thomas Cormen",
+      "category": "Computer Science",
+      "status": "Issued",
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "category": "Programming",
+      "status": "Available",
+      "favorite": false
+    }
+  ],
+  "profile": {
+    "id": "1",
+    "name": "Siya Baweja",
+    "department": "CSE • Artificial Intelligence & Machine Learning",
+    "semester": "3rd",
+    "email": "siya@example.edu",
+    "notifications": true,
+    "darkMode": false
+  }
+}
